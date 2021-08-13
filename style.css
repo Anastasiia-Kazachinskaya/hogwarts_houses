@@ -1,0 +1,96 @@
+@font-face {
+    src: url(https://code.s3.yandex.net/web-code/fonts/SuisseIntl-Book.woff);
+    font-family: 'Suisse';
+    font-weight: normal;
+}
+@font-face {
+    src: url(https://code.s3.yandex.net/web-code/fonts/SuisseIntl-Bold.woff
+    );
+    font-family: 'Suisse';
+    font-weight: bold;
+}
+* {
+    box-sizing: content-box;
+}
+body {
+    font-family: 'Suisse';
+    background: #F6F6F6;
+    margin: 0;
+    position: relative;
+
+}
+header {
+    text-align: center;
+    color: #F6F6F6;
+    background-color: #eee;
+    height: 40vh;
+    background-position: center;
+    background-image: url(https://images.unsplash.com/photo-1570610159825-ec5d3823660c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=891&q=80);
+    margin-bottom: 20px;
+}
+.house {
+    font-size: 30px;
+    text-align: center;
+}
+.quote {
+    font-size: 15px;
+}
+.image {
+    width: 600px;
+    height: 900px;
+    margin-bottom: 20px;
+}
+.card {
+    display: inline-block;
+    margin: 0px 0px 20px 20px;
+    padding: 0px 0px 10px 30px;
+}
+.Grbutton {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+.Grbutton:hover {
+    opacity: 0.5;
+    color: #823038;
+}
+.Hubutton {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+.Hubutton:hover {
+    opacity: 0.5;
+    color: darkgoldenrod;
+}
+.Rabutton {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+.Rabutton:hover {
+    opacity: 0.5;
+    color: darkblue;
+}
+.Slbutton {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+.Slbutton:hover {
+    opacity: 0.5;
+    color: darkgreen;
+}
+a {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Suisse';
+}
+.footer1 {
+    color: black;
+    font-size: 14px;
+    text-align: center;
+    margin: 0 0 0 0;    
+    -webkit-font-smoothing: subpixel-antialiased;
+}
