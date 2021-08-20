@@ -2,4 +2,4 @@
 Представление 4 факультетов Хогвартса 
 
 Ссылка на codepen:
-https://codepen.io/anastasiia-kazachinskaya/live/PoNOYWj
+https://cdpn.io/anastasiia-kazachinskaya/debug/PoNOYWj/YvkgOwKYGVwk
